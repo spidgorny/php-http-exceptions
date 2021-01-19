@@ -8,7 +8,7 @@
         "MIT"
     ],
     "require": {
-        "php": "^7.1"
+        "php": "^7.0.8"
     },
     "require-dev": {
         "phpunit/phpunit": "^7",
