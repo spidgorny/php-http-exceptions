@@ -1,5 +1,5 @@
 {
-    "name": "controlabs/http-exceptions",
+    "name": "spidgorny/http-exceptions",
     "type": "library",
     "description": "PHP HTTP Status Code Exceptions",
     "keywords": ["PHP", "http", "exceptions"],
